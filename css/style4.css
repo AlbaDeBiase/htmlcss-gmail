@@ -1,0 +1,70 @@
+.intestazione {
+  width: 1000px;
+  margin: 0;
+}
+
+.gmailfoto {
+  display: inline-block;
+  margin: 0;
+  width: 100px;
+  vertical-align: middle;
+}
+.gmailtitle {
+ display: inline-block;
+ color: white;
+ vertical-align: middle;
+}
+
+#circle30 {
+  background-color: orange;
+  color: white;
+  border-radius: 50%;
+  padding: 5px;
+}
+
+.Search {
+  display: inline-block;
+  margin: auto;
+}
+
+body{background-image: url(https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg);
+}
+
+
+.object {
+  background-color: #cbcbd0;
+  font-weight: bold;
+  width: 30%;
+  display: inline-block;
+}
+
+
+.object2,.testo2{
+    background-color: white;
+    display: inline-block;
+}
+
+.object2 {
+    font-weight: bold;
+    width: 30%;
+    display: inline-block;
+}
+
+.testo2 {
+    width: 60%;
+    display: inline-block;
+    color: grey;
+}
+
+.testo {
+  background-color: #cbcbd0;
+  color: grey;
+  width: 60%;
+  display: inline-block;
+
+}
+
+footer{
+    color:white;
+    text-align: center;
+}
